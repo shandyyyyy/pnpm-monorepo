@@ -7,6 +7,12 @@
 
 `pnpm run -r build`  // build all application
 
+`npx nx build`
+`npx nx dev`
+`npx nx graph`
+`npx nx affected:graph`
+
+
 ```
  function test(){
   console.log('test')
